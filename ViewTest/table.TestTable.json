@@ -1,0 +1,29 @@
+﻿[{
+    "EnemyName": "\"White\"",
+    "EnemyID": "1001.0",
+    "EnemyHealth": "10.0",
+    "EnemyAttack": "1.0",
+    "UnlockLevel": "0.0",
+    "Weight": "50.0"
+  },{
+    "EnemyName": "\"Blue\"",
+    "EnemyID": "1002.0",
+    "EnemyHealth": "15.0",
+    "EnemyAttack": "2.0",
+    "UnlockLevel": "0.0",
+    "Weight": "30.0"
+  },{
+    "EnemyName": "\"Purple\"",
+    "EnemyID": "1003.0",
+    "EnemyHealth": "20.0",
+    "EnemyAttack": "3.0",
+    "UnlockLevel": "3.0",
+    "Weight": "10.0"
+  },{
+    "EnemyName": "\"Yellow\"",
+    "EnemyID": "1004.0",
+    "EnemyHealth": "40.0",
+    "EnemyAttack": "5.0",
+    "UnlockLevel": "5.0",
+    "Weight": "5.0"
+  }]

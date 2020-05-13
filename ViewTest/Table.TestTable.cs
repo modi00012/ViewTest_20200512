@@ -8,9 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using Newtonsoft.Json;
+
 namespace Table
 {
-    
+
     // KEY:EnemyName
     // 
     public partial class TestTable
@@ -22,6 +24,7 @@ namespace Table
         private int _UnlockLevel;
         private int _Weight;
         // intCode
+        [JsonProperty("")]
         public string EnemyName
         {
             get
@@ -33,7 +36,8 @@ namespace Table
                 this._EnemyName = value;
             }
         }
-        // 
+
+        [JsonProperty("")]
         public int EnemyID
         {
             get
@@ -46,6 +50,7 @@ namespace Table
             }
         }
         // 
+        [JsonProperty("")]
         public int EnemyHealth
         {
             get
@@ -58,6 +63,7 @@ namespace Table
             }
         }
         // 
+        [JsonProperty("")]
         public int EnemyAttack
         {
             get
@@ -70,6 +76,7 @@ namespace Table
             }
         }
         // 
+        [JsonProperty("")]
         public int UnlockLevel
         {
             get
@@ -82,6 +89,7 @@ namespace Table
             }
         }
         // 
+        [JsonProperty("")]
         public int Weight
         {
             get
